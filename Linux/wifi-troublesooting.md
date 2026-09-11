@@ -1,3 +1,4 @@
+11/9/2026
 # How I Fixed Wi-Fi Problems After Installing Windows on an Acer Laptop
 
 While formatting an **Acer TravelMate Spin B311R-31**, I encountered a common problem after a fresh Windows installation: **Windows required an internet connection, but the laptop's Wi-Fi was not working and I didn't have an Ethernet cable.**
@@ -12,7 +13,9 @@ I first tried the **OOBE Network Requirement Bypass**.
 
 Press:
 
-**Shift + F10**
+**Shift + F10** or 
+**Fn + Shift + F10**
+
 
 This opens Command Prompt.
 
